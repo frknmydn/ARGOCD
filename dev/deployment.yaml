@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: furkanmeydan/nodejs-restapi-backend:1.2
+        image: furkanmeydan/nodejs-restapi-backend
         ports:
         - containerPort: 8080
