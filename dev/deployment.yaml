@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: furkanmeydan/backendapi_node:latest
+        image: furkanmeydan/backendapi_node:1.0
         ports:
         - containerPort: 8080
