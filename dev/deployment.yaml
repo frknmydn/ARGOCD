@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: furkanmeydan/k8s-web-to-nginx:latest
+        image: furkanmeydan/backendapi_node:latest
         ports:
         - containerPort: 8080
